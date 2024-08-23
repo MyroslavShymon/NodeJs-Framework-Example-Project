@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-framework-example-project",
+  "version": "1.0.0",
+  "description": "Example of usage of my nodejs framework",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "tsc",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MyroslavShymon/NodeJs-Framework-Example-Project.git"
+  },
+  "keywords": [
+    "nodejs",
+    "framework"
+  ],
+  "author": "Myroslav Shymkiv <myroslavshymon@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MyroslavShymon/NodeJs-Framework-Example-Project/issues"
+  },
+  "homepage": "https://github.com/MyroslavShymon/NodeJs-Framework-Example-Project#readme",
+  "dependencies": {
+    "my-nodejs-framework": "^1.0.4"
+  }
+}
